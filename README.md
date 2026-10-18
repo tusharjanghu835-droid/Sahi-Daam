@@ -44,7 +44,7 @@ Sahi Daam is an Indian agriculture market price portal designed to help farmers 
    ```bash
    npm start
    ```
-4. Open your browser and navigate to `http://localhost:3001`.
+4. Open your browser and navigate to `https://sahi-daam-e2r0.onrender.com`.
 
 ---
 
